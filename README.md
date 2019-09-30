@@ -30,6 +30,10 @@ There are two ways to use it:
 (this section assumes you alias `reporter.sh --failure-only` to `rf`)
 
 Sometimes it's useful to only know when a command fails, in this case you can use the `--failure-only` flag as the first argument:
+* `rf false`
+  * computer says "crap a doo"
+* `rf true`
+  * computer doesn't say anything
 
 
 ## Help
