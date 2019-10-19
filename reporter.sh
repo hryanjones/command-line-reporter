@@ -1,8 +1,8 @@
 #! /bin/bash
 
 # Feel free to edit these words to your liking
-SUCCESS_PHRASE="yay"
-FAILURE_PHRASE="crap a doo"
+SUCCESS_PHRASE="success"
+FAILURE_PHRASE="oopsie doopsie"
 FINISHED_PHRASE="done"
 
 # Also feel free to pick a different program to speak the report

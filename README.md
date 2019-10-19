@@ -25,6 +25,8 @@ There are two ways to use it:
   * > some-command you realize may take time after starting it, type "r"
     * computer says "done"
 
+## Here's a video of how it works: https://youtu.be/wNObcPa1reE
+
 ### Failure only
 
 (this section assumes you alias `reporter.sh --failure-only` to `rf`)
